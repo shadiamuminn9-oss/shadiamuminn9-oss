@@ -44,8 +44,8 @@ Some projects in this repository:
 
 ## 🔗 Connect With Me
 
-- 🌐 [LinkedIn: Shadia Mumin](https://www.linkedin.com/)  
-- ✉️ Email: shadia@example.com (replace with your email)  
+- 🌐 [LinkedIn: Shadia Mumin](https://www.linkedin.com/in/shadia-muminn-7350ab344//)  
+- ✉️ Email: Shadiamuminn9@gmail.com
 
 ---
 
